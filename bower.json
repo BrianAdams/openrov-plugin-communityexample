@@ -1,0 +1,27 @@
+{
+  "name": "openrov-plugin-communityexample",
+  "main": "public/js/communityexample.js",
+  "version": "0.0.0",
+  "authors": [
+    "BrianAdams <brian@babastik.com>"
+  ],
+  "description": "Example for building your own community plugin",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "openrov",
+    "tutorial",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/brianadams/openrov-plugin-comminityexample",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
