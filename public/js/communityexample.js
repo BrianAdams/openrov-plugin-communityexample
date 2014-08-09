@@ -3,7 +3,7 @@
 
     var CommunityExample;
 
-    Example = function Example(cockpit) {
+    CommunityExample = function Example(cockpit) {
         console.log("Loading community example plugin in the browser.");
 
         // Instance variables
@@ -12,6 +12,6 @@
         alert('Community Example Plugin Loaded');
     };
 
-    window.Cockpit.plugins.push(Example);
+    window.Cockpit.plugins.push(CommunityExample);
 
 }(window, jQuery));

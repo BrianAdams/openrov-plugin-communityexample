@@ -1,7 +1,7 @@
 {
   "name": "openrov-plugin-communityexample",
   "main": "public/js/communityexample.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "BrianAdams <brian@babastik.com>"
   ],
